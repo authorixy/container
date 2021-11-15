@@ -1,2 +1,2 @@
 # container
-Some container in GO
+Some containers in GO
